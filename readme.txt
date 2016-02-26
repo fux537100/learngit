@@ -1,4 +1,6 @@
-I,Frank will be better~~
-Be better than yesterday~
-Let's be better together!
+git is a distributed version control system
+git is free software distributed under the GPL
+git has a mutable index called stage
+git tracks changes
+
 cheers~~
